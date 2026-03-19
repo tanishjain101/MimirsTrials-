@@ -1,0 +1,49 @@
+com.gameed.app-transition-1.4.1-0 /Users/tanishjain/.gradle/caches/8.14/transforms/00530a6d32834c7390234c49632c3606/transformed/transition-1.4.1/res
+com.gameed.app-annotation-experimental-1.4.0-1 /Users/tanishjain/.gradle/caches/8.14/transforms/02b863a87c4a896f307be0f84eed8610/transformed/annotation-experimental-1.4.0/res
+com.gameed.app-savedstate-1.2.1-2 /Users/tanishjain/.gradle/caches/8.14/transforms/0c48c02cdb23fd33729e42e3cf5deadc/transformed/savedstate-1.2.1/res
+com.gameed.app-core-1.13.1-3 /Users/tanishjain/.gradle/caches/8.14/transforms/0e1d0ee332fc57bec16b5ddd5559901a/transformed/core-1.13.1/res
+com.gameed.app-slidingpanelayout-1.2.0-4 /Users/tanishjain/.gradle/caches/8.14/transforms/16cb81506ea3ce08642c6da171387c74/transformed/slidingpanelayout-1.2.0/res
+com.gameed.app-activity-1.8.1-5 /Users/tanishjain/.gradle/caches/8.14/transforms/1938f1f9c527a290c9610841fe77c5ec/transformed/activity-1.8.1/res
+com.gameed.app-lifecycle-viewmodel-savedstate-2.7.0-6 /Users/tanishjain/.gradle/caches/8.14/transforms/1dbd0ccf3995b9bc22dbac8f76e5b35c/transformed/lifecycle-viewmodel-savedstate-2.7.0/res
+com.gameed.app-fragment-ktx-1.7.1-7 /Users/tanishjain/.gradle/caches/8.14/transforms/1f2e8a36f75d5579f78930887e60be92/transformed/fragment-ktx-1.7.1/res
+com.gameed.app-savedstate-ktx-1.2.1-8 /Users/tanishjain/.gradle/caches/8.14/transforms/25ec44ab897116a1934f797622d0845f/transformed/savedstate-ktx-1.2.1/res
+com.gameed.app-datastore-preferences-core-release-9 /Users/tanishjain/.gradle/caches/8.14/transforms/2c9d1d28f06b8907d4fcae76c04b0c2b/transformed/datastore-preferences-core-release/res
+com.gameed.app-lifecycle-runtime-2.7.0-10 /Users/tanishjain/.gradle/caches/8.14/transforms/3159190c67ee3640cc6109bfa61e7d07/transformed/lifecycle-runtime-2.7.0/res
+com.gameed.app-activity-ktx-1.8.1-11 /Users/tanishjain/.gradle/caches/8.14/transforms/3a8d4ae8e40986c15cc8fe86b0330b7e/transformed/activity-ktx-1.8.1/res
+com.gameed.app-appcompat-1.1.0-12 /Users/tanishjain/.gradle/caches/8.14/transforms/3b0b5cd912e8489b4e961334578f632b/transformed/appcompat-1.1.0/res
+com.gameed.app-preference-1.2.1-13 /Users/tanishjain/.gradle/caches/8.14/transforms/3b1566c0758539513a7ff132d0ddb58b/transformed/preference-1.2.1/res
+com.gameed.app-lifecycle-livedata-core-2.7.0-14 /Users/tanishjain/.gradle/caches/8.14/transforms/3cd3ce4279c3582d7060f5e0b1a320a6/transformed/lifecycle-livedata-core-2.7.0/res
+com.gameed.app-lifecycle-livedata-core-ktx-2.7.0-15 /Users/tanishjain/.gradle/caches/8.14/transforms/4cd00101580b66749bf7e6c6f344c381/transformed/lifecycle-livedata-core-ktx-2.7.0/res
+com.gameed.app-window-1.2.0-16 /Users/tanishjain/.gradle/caches/8.14/transforms/4dfe3af493fcc237ffb51862345c1fe6/transformed/window-1.2.0/res
+com.gameed.app-profileinstaller-1.3.1-17 /Users/tanishjain/.gradle/caches/8.14/transforms/7107e9f9c9a3a03787c609ed1a8bf0c5/transformed/profileinstaller-1.3.1/res
+com.gameed.app-datastore-preferences-release-18 /Users/tanishjain/.gradle/caches/8.14/transforms/7a43f6ffffea7e7390a83d6e7c72b49f/transformed/datastore-preferences-release/res
+com.gameed.app-lifecycle-process-2.7.0-19 /Users/tanishjain/.gradle/caches/8.14/transforms/810808f23fbb860d4517d54f15750c6b/transformed/lifecycle-process-2.7.0/res
+com.gameed.app-lifecycle-livedata-2.7.0-20 /Users/tanishjain/.gradle/caches/8.14/transforms/9574602ed24a9bd7dd3fac8cb517e1c6/transformed/lifecycle-livedata-2.7.0/res
+com.gameed.app-startup-runtime-1.1.1-21 /Users/tanishjain/.gradle/caches/8.14/transforms/a45204b04e1c3bc129aac2e6c28e0e75/transformed/startup-runtime-1.1.1/res
+com.gameed.app-datastore-core-release-22 /Users/tanishjain/.gradle/caches/8.14/transforms/a9b3c208b2cfdba79a32ec4968021029/transformed/datastore-core-release/res
+com.gameed.app-core-ktx-1.13.1-23 /Users/tanishjain/.gradle/caches/8.14/transforms/b0dcd1e2c8bea99cdad046c9116e5567/transformed/core-ktx-1.13.1/res
+com.gameed.app-tracing-1.2.0-24 /Users/tanishjain/.gradle/caches/8.14/transforms/b6cd473650203b98a90c5e6a93edf51b/transformed/tracing-1.2.0/res
+com.gameed.app-exifinterface-1.4.1-25 /Users/tanishjain/.gradle/caches/8.14/transforms/b83a5b3a217a0f2fe82998c4434414eb/transformed/exifinterface-1.4.1/res
+com.gameed.app-coordinatorlayout-1.0.0-26 /Users/tanishjain/.gradle/caches/8.14/transforms/b91fa154b73c6725b1fceb26482bd636/transformed/coordinatorlayout-1.0.0/res
+com.gameed.app-lifecycle-viewmodel-ktx-2.7.0-27 /Users/tanishjain/.gradle/caches/8.14/transforms/bc8255421143d045105a00e93757c9c2/transformed/lifecycle-viewmodel-ktx-2.7.0/res
+com.gameed.app-datastore-release-28 /Users/tanishjain/.gradle/caches/8.14/transforms/c1be958d7ff6f36aba6cd335b3663ef4/transformed/datastore-release/res
+com.gameed.app-lifecycle-runtime-ktx-2.7.0-29 /Users/tanishjain/.gradle/caches/8.14/transforms/c6fef93a5ae12e01328c2b89f5820462/transformed/lifecycle-runtime-ktx-2.7.0/res
+com.gameed.app-recyclerview-1.0.0-30 /Users/tanishjain/.gradle/caches/8.14/transforms/d4ea63f655e9c4d1d816e8ab7640f48f/transformed/recyclerview-1.0.0/res
+com.gameed.app-window-java-1.2.0-31 /Users/tanishjain/.gradle/caches/8.14/transforms/d5bcf66d63dc7b12f71a8cde5636c648/transformed/window-java-1.2.0/res
+com.gameed.app-appcompat-resources-1.1.0-32 /Users/tanishjain/.gradle/caches/8.14/transforms/e3ea20259af63fd9dc0b0c529ef9bc2f/transformed/appcompat-resources-1.1.0/res
+com.gameed.app-core-1.0.0-33 /Users/tanishjain/.gradle/caches/8.14/transforms/e91b882559087669406a8cd382d62554/transformed/core-1.0.0/res
+com.gameed.app-lifecycle-viewmodel-2.7.0-34 /Users/tanishjain/.gradle/caches/8.14/transforms/f01ccbfb6a43583acecb8a12ae814045/transformed/lifecycle-viewmodel-2.7.0/res
+com.gameed.app-fragment-1.7.1-35 /Users/tanishjain/.gradle/caches/8.14/transforms/f477ea7f71707963a68bb7df8b17c663/transformed/fragment-1.7.1/res
+com.gameed.app-core-runtime-2.2.0-36 /Users/tanishjain/.gradle/caches/8.14/transforms/f6252bf2365592b6f40d85497322df5a/transformed/core-runtime-2.2.0/res
+com.gameed.app-main-37 /Users/tanishjain/Desktop/GameED app/gameed_app/android/app/src/main/res
+com.gameed.app-release-38 /Users/tanishjain/Desktop/GameED app/gameed_app/android/app/src/release/res
+com.gameed.app-pngs-39 /Users/tanishjain/Desktop/GameED app/gameed_app/build/app/generated/res/pngs/release
+com.gameed.app-resValues-40 /Users/tanishjain/Desktop/GameED app/gameed_app/build/app/generated/res/resValues/release
+com.gameed.app-packageReleaseResources-41 /Users/tanishjain/Desktop/GameED app/gameed_app/build/app/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.gameed.app-packageReleaseResources-42 /Users/tanishjain/Desktop/GameED app/gameed_app/build/app/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.gameed.app-merged-not-compiled-resources-43 /Users/tanishjain/Desktop/GameED app/gameed_app/build/app/intermediates/merged-not-compiled-resources/release
+com.gameed.app-release-44 /Users/tanishjain/Desktop/GameED app/gameed_app/build/app/intermediates/merged_res/release/mergeReleaseResources
+com.gameed.app-release-45 /Users/tanishjain/Desktop/GameED app/gameed_app/build/audioplayers_android/intermediates/packaged_res/release/packageReleaseResources
+com.gameed.app-release-46 /Users/tanishjain/Desktop/GameED app/gameed_app/build/path_provider_android/intermediates/packaged_res/release/packageReleaseResources
+com.gameed.app-release-47 /Users/tanishjain/Desktop/GameED app/gameed_app/build/shared_preferences_android/intermediates/packaged_res/release/packageReleaseResources
+com.gameed.app-release-48 /Users/tanishjain/Desktop/GameED app/gameed_app/build/sqflite_android/intermediates/packaged_res/release/packageReleaseResources

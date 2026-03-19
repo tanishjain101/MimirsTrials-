@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.gameed.app-mergeReleaseResources-41:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/tanishjain/.gradle/caches/8.14/transforms/3b0b5cd912e8489b4e961334578f632b/transformed/appcompat-1.1.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

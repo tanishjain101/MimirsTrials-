@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/tanishjain/develop/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/tanishjain/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/tanishjain/Desktop/GameED app/gameed_app/build/.cxx/debug/2r3u1y5k/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/tanishjain/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/tanishjain/Desktop/GameED app/gameed_app/build/.cxx/debug/2r3u1y5k/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

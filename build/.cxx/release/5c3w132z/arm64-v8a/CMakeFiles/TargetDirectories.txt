@@ -1,0 +1,2 @@
+/Users/tanishjain/Desktop/GameED app/gameed_app/build/.cxx/release/5c3w132z/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/tanishjain/Desktop/GameED app/gameed_app/build/.cxx/release/5c3w132z/arm64-v8a/CMakeFiles/rebuild_cache.dir
