@@ -162,5 +162,4 @@ Contributions are welcome.
 
 ## License
 No license file is currently added.  
-Add a `LICENSE` file before public/commercial distribution.
 
