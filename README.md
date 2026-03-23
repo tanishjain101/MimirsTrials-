@@ -43,86 +43,6 @@ It is designed as an offline-first, role-based EdTech project with interactive l
 - **Network/Backend (optional):** HTTP + Postgres API endpoints
 - **AI (optional):** Gemini API via env config
 
-## Project Structure
-```text
-lib/
-  models/         # Domain models (lesson, quiz, user, quests, trophies...)
-  providers/      # Business logic and app state (Provider-based)
-  screens/        # Student, teacher, admin, auth, analytics, fun corner...
-  services/       # Backend connectors (e.g., Postgres API client)
-  utils/          # Colors, sounds, API clients, helpers
-  widgets/        # Shared UI components
-assets/
-  images/
-  music/
-  sounds/
-```
-
-## Getting Started
-
-### 1) Prerequisites
-- Flutter SDK (Dart 3+)
-- Xcode (for iOS)
-- Android Studio + Android SDK (for Android)
-- **JDK 17** (required for Android build in this repo)
-
-### 2) Clone & Install
-```bash
-git clone <your-repo-url>
-cd gameed_app
-flutter pub get
-```
-
-### 3) Environment Setup
-Create `.env` from the template:
-```bash
-cp .env.example .env
-```
-
-Current env variables:
-- `GEMINI_API_KEY` (optional)
-- `GEMINI_MODEL` (optional, default supported in code)
-- `GEMINI_API_BASE` (optional)
-- `POSTGRES_API_URL` (optional backend API URL)
-
-If env values are missing, the app falls back to local/default behavior for supported modules.
-
-### 4) Run
-```bash
-flutter run
-```
-
-Useful:
-```bash
-flutter devices
-flutter run -d <device_id>
-```
-
-## Android Build Notes (Important)
-
-This project is configured for Java 17 in Android Gradle settings.
-
-`android/gradle.properties` includes:
-```properties
-org.gradle.java.home=/Library/Java/JavaVirtualMachines/temurin-17.jdk/Contents/Home
-```
-
-If Android build fails:
-1. Confirm Java version:
-   ```bash
-   java -version
-   ```
-2. Confirm Flutter doctor:
-   ```bash
-   flutter doctor -v
-   ```
-3. Clean and retry:
-   ```bash
-   flutter clean
-   flutter pub get
-   flutter run
-   ```
-
 ## Fun Corner: Teacher Custom Quiz Music
 
 Teachers can create a Fun Corner quiz and attach music:
@@ -140,12 +60,6 @@ When a student opens that quiz, the custom track is used.
 - Backend APIs (Postgres) are optional and require external endpoints.
 - AI features work in fallback mode if Gemini is not configured.
 
-## Quality Checks
-```bash
-dart analyze
-flutter analyze
-```
-
 ## Roadmap Ideas
 - Production auth (real OAuth/Firebase/Auth server)
 - Real-time multiplayer battles
@@ -160,6 +74,4 @@ Contributions are welcome.
 3. Commit with clear messages
 4. Open a pull request
 
-## License
-No license file is currently added.  
 
